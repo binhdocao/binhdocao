@@ -8,19 +8,13 @@
 
 ## My name is Binh Do-Cao
 
-I graduated from Texas A&M University with a Computer Science degree in December 2023!
+I graduated from Texas A&M University with a Computer Science degree in December 2023! I am an aspiring Full-Stack developer and would love to work on something that is going to make a big difference in the world. In my free time, I love photography, staying up to date on the latest tech gadgets, and working out!
   
 
-- 🔭 I’m currently working on   
+- 🔭 I’m currently working on mobile app development and integrating machine learning into my projects.
   
 
-- 🌱 I’m currently learning   
-  
-
-- ❓ Ask me about anything related to   
-  
-
-- ⚡ Fun fact:  
+- 🌱 I’m currently learning Swift and Javascript.
   
 
 <br/>  
