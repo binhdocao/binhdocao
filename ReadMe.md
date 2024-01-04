@@ -1,9 +1,14 @@
+![Header](Header.png)  
+
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Howdy! I'm Binh Do-Cao</div>  
+## My name is Binh Do-Cao
+
+I graduated from Texas A&M University with a Computer Science degree in December 2023!
   
 
 - 🔭 I’m currently working on   
